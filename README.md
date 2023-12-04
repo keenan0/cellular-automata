@@ -8,6 +8,7 @@ Make sure to include a *data.txt* file that will contain the starting configurat
 
 ## Example
 **4** *represents the size of the matrix*
+
 **0 0 1 1**     
 **1 0 0 0**     
 **1 1 0 1**     
